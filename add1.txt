@@ -1,2 +1,6 @@
 hi this is m 1st add file
 1+1=2
+
+this is done in basic maths but as a coder
+1+1=10
+
